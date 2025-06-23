@@ -18,6 +18,11 @@ The simulation consists of two phases:
 
 <img src="player_stage.gif" width="80%">
 
+
+**AI stage:**
+
+<img src="ai_stage_1.gif" width="80%">
+
 ## 🧠 AI Architecture
 
 - **Sensors**: The car is equipped with 3 forward-facing sensors (left, center, right) to detect distances to the track borders.
