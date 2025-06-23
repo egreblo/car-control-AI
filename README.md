@@ -4,6 +4,8 @@ This project is an interactive Unity-based simulation that explores how artifici
 
 ## 🎮 About the Project
 
+Name of the project: *RACE VS AI*
+
 The simulation consists of two phases:
 
 1. **Player Phase**:  
@@ -45,10 +47,13 @@ These can be exported and analyzed using external tools like MATLAB to visualize
 - Blender (for modeling)
 - Genetic Algorithm
 
-## 📷 Screenshots
+## How to run the game
 
-_(Add your own screenshots here)_
-
+   1. Download _RaceVsAI.zip_ and extract the files into a folder
+   2. Download _unityplayer.dll_ file from [this](https://drive.google.com/drive/folders/1uCM198soYQLRcasHWzdl8FhHZPPPbP0F?usp=sharing) link
+   3. Place the .dll file into the files folder
+   4. Run _RaceVsAI.exe_
+   5. In the main menu, press the _INFO_ button for more information
 
 
 > Created by Erik Greblo  
