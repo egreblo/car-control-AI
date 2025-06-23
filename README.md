@@ -14,9 +14,8 @@ The simulation consists of two phases:
 2. **AI Phase**:  
    After the player finishes, an AI takes over. It starts with a population of randomly initialized neural networks that control the cars. The AI's goal is to learn how to drive and beat the player's score.
 
-Player stage:
-![Simulation of Car Control Using Machine Learning](player_stage.gif)
-<img src="player_stage.gif" width="60%">
+**Player stage:**
+<img src="player_stage.gif" width="80%">
 ## 🧠 AI Architecture
 
 - **Sensors**: The car is equipped with 3 forward-facing sensors (left, center, right) to detect distances to the track borders.
