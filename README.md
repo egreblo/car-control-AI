@@ -16,7 +16,7 @@ The simulation consists of two phases:
 
 Player stage:
 ![Simulation of Car Control Using Machine Learning](player_stage.gif)
-
+<img src="player_stage.gif" width="60%">
 ## 🧠 AI Architecture
 
 - **Sensors**: The car is equipped with 3 forward-facing sensors (left, center, right) to detect distances to the track borders.
